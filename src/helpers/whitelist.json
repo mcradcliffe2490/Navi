@@ -1,0 +1,397 @@
+{
+	"GPU": {
+		"AMD": [
+			{
+				"Product Name": "Radeon RX 6400",
+				"GPU Chip": "Navi 24",
+				"Released": "Jan 19th, 2022",
+				"Bus": "PCIe 4.0 x4",
+				"Memory": "4 GB, GDDR6, 64 bit",
+				"GPU clock": "1923 MHz",
+				"Memory clock": "2000 MHz",
+				"Shaders / TMUs / ROPs": "768 / 48 / 32"
+			},
+			{
+				"Product Name": "Radeon RX 6500 XT",
+				"GPU Chip": "Navi 24",
+				"Released": "Jan 19th, 2022",
+				"Bus": "PCIe 4.0 x4",
+				"Memory": "4 GB, GDDR6, 64 bit",
+				"GPU clock": "2310 MHz",
+				"Memory clock": "2248 MHz",
+				"Shaders / TMUs / ROPs": "1024 / 64 / 32"
+			},
+			{
+				"Product Name": "Radeon RX 6650 XT",
+				"GPU Chip": "Navi 23",
+				"Released": "May 10th, 2022",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "8 GB, GDDR6, 128 bit",
+				"GPU clock": "2055 MHz",
+				"Memory clock": "2190 MHz",
+				"Shaders / TMUs / ROPs": "2048 / 128 / 64"
+			},
+			{
+				"Product Name": "Radeon RX 6750 XT",
+				"GPU Chip": "Navi 22",
+				"Released": "Mar 3rd, 2022",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "12 GB, GDDR6, 192 bit",
+				"GPU clock": "2150 MHz",
+				"Memory clock": "2250 MHz",
+				"Shaders / TMUs / ROPs": "2560 / 160 / 64"
+			},
+			{
+				"Product Name": "Radeon RX 6950 XT",
+				"GPU Chip": "Navi 21",
+				"Released": "May 10th, 2022",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "16 GB, GDDR6, 256 bit",
+				"GPU clock": "1860 MHz",
+				"Memory clock": "2250 MHz",
+				"Shaders / TMUs / ROPs": "5120 / 320 / 128"
+			},
+			{
+				"Product Name": "Radeon RX 7900 XT",
+				"GPU Chip": "Navi 31",
+				"Released": "Nov 3rd, 2022",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "20 GB, GDDR6, 320 bit",
+				"GPU clock": "1500 MHz",
+				"Memory clock": "2500 MHz",
+				"Shaders / TMUs / ROPs": "5376 / 336 / 192"
+			},
+
+			{
+				"Product Name": "Radeon RX 7900 XTX",
+				"GPU Chip": "Navi 31",
+				"Released": "Nov 3rd, 2022",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "24 GB, GDDR6, 384 bit",
+				"GPU clock": "1855 MHz",
+				"Memory clock": "2500 MHz",
+				"Shaders / TMUs / ROPs": "6144 / 384 / 192"
+			},
+			{
+				"Product Name": "Radeon RX 6600",
+				"GPU Chip": "Navi 23",
+				"Released": "Oct 13th, 2021",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "8 GB, GDDR6, 128 bit",
+				"GPU clock": "1626 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "1792 / 112 / 64"
+			},
+			{
+				"Product Name": "Radeon RX 6600 XT",
+				"GPU Chip": "Navi 23",
+				"Released": "Jul 30th, 2021",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "8 GB, GDDR6, 128 bit",
+				"GPU clock": "1968 MHz",
+				"Memory clock": "2000 MHz",
+				"Shaders / TMUs / ROPs": "2048 / 128 / 64"
+			},
+			{
+				"Product Name": "Radeon RX 6700",
+				"GPU Chip": "Navi 22",
+				"Released": "Jun 9th, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "10 GB, GDDR6, 160 bit",
+				"GPU clock": "1941 MHz",
+				"Memory clock": "2000 MHz",
+				"Shaders / TMUs / ROPs": "2304 / 144 / 64"
+			},
+			{
+				"Product Name": "Radeon RX 6700 XT",
+				"GPU Chip": "Navi 22",
+				"Released": "Mar 3rd, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "12 GB, GDDR6, 192 bit",
+				"GPU clock": "2321 MHz",
+				"Memory clock": "2000 MHz",
+				"Shaders / TMUs / ROPs": "2560 / 160 / 64"
+			}
+		],
+		"Nvidia": [
+			{
+				"Product Name": "GeForce GT 1010",
+				"GPU Chip": "GP108",
+				"Released": "Jan 13th, 2021",
+				"Bus": "PCIe 3.0 x4",
+				"Memory": "2 GB, GDDR5, 64 bit",
+				"GPU clock": "1228 MHz",
+				"Memory clock": "1502 MHz",
+				"Shaders / TMUs / ROPs": "256 / 16 / 8"
+			},
+			{
+				"Product Name": "GeForce GT 1010 DDR4",
+				"GPU Chip": "GP108",
+				"Released": "Jan 13th, 2021",
+				"Bus": "PCIe 3.0 x4",
+				"Memory": "2 GB, DDR4, 64 bit",
+				"GPU clock": "1152 MHz",
+				"Memory clock": "1050 MHz",
+				"Shaders / TMUs / ROPs": "256 / 16 / 8"
+			},
+			{
+				"Product Name": "GeForce RTX 2060 12 GB",
+				"GPU Chip": "TU106",
+				"Released": "Dec 7th, 2021",
+				"Bus": "PCIe 3.0 x16",
+				"Memory": "12 GB, GDDR6, 192 bit",
+				"GPU clock": "1470 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "2176 / 136 / 48"
+			},
+			{
+				"Product Name": "GeForce RTX 3060 12 GB",
+				"GPU Chip": "GA106",
+				"Released": "Jan 12th, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "12 GB, GDDR6, 192 bit",
+				"GPU clock": "1320 MHz",
+				"Memory clock": "1875 MHz",
+				"Shaders / TMUs / ROPs": "3584 / 112 / 48"
+			},
+			{
+				"Product Name": "GeForce RTX 3060 12 GB GA104",
+				"GPU Chip": "GA104",
+				"Released": "Sep 1st, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "12 GB, GDDR6, 192 bit",
+				"GPU clock": "1320 MHz",
+				"Memory clock": "1875 MHz",
+				"Shaders / TMUs / ROPs": "3584 / 112 / 64"
+			},
+			{
+				"Product Name": "GeForce RTX 3060 3840SP",
+				"GPU Chip": "GA106",
+				"Released": "2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "6 GB, GDDR6, 192 bit",
+				"GPU clock": "1627 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "3840 / 120 / 48"
+			},
+			{
+				"Product Name": "GeForce RTX 3070 Ti",
+				"GPU Chip": "GA104",
+				"Released": "May 31st, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "8 GB, GDDR6X, 256 bit",
+				"GPU clock": "1575 MHz",
+				"Memory clock": "1188 MHz",
+				"Shaders / TMUs / ROPs": "6144 / 192 / 96"
+			},
+			{
+				"Product Name": "GeForce RTX 3080 Ti",
+				"GPU Chip": "GA102",
+				"Released": "May 31st, 2021",
+				"Bus": "PCIe 4.0 x16",
+				"Memory": "12 GB, GDDR6X, 384 bit",
+				"GPU clock": "1365 MHz",
+				"Memory clock": "1188 MHz",
+				"Shaders / TMUs / ROPs": "10240 / 320 / 112"
+			},
+			{
+				"Product Name": "GeForce GTX 1630",
+				"GPU Chip": "TU117",
+				"Released": "Jun 28th, 2022",
+				"Bus": "PCIe 3.0 x8",
+				"Memory": "4 GB, GDDR6, 64 bit",
+				"GPU clock": "1740 MHz",
+				"Memory clock": "1500 MHz",
+				"Shaders / TMUs / ROPs": "512 / 32 / 16"
+			},
+			{
+				"Product Name": "GeForce RTX 3050 4 GB",
+				"GPU Chip": "GA107",
+				"Released": "Never Released",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "4 GB, GDDR6, 128 bit",
+				"GPU clock": "1545 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "2304 / 72 / 32"
+			},
+			{
+				"Product Name": "GeForce RTX 3050 8 GB",
+				"GPU Chip": "GA106",
+				"Released": "Jan 4th, 2022",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "8 GB, GDDR6, 128 bit",
+				"GPU clock": "1552 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "2560 / 80 / 32"
+			},
+			{
+				"Product Name": "GeForce RTX 3050 8 GB",
+				"GPU Chip": "GA107",
+				"Released": "Dec 16th, 2022",
+				"Bus": "PCIe 4.0 x8",
+				"Memory": "8 GB, GDDR6, 128 bit",
+				"GPU clock": "1552 MHz",
+				"Memory clock": "1750 MHz",
+				"Shaders / TMUs / ROPs": "2560 / 80 / 32"
+			},
+            {
+                "Product Name": "GeForce RTX 3050 OEM",
+                "GPU Chip": "GA106",
+                "Released": "Jan 4th, 2022",
+                "Bus": "PCIe 4.0 x8",
+                "Memory": "8 GB, GDDR6, 128 bit",
+                "GPU clock": "1515 MHz",
+                "Memory clock": "1750 MHz",
+                "Shaders / TMUs / ROPs": "2304 / 72 / 32"
+              },
+              {
+                "Product Name": "GeForce RTX 3060 8 GB",
+                "GPU Chip": "GA106",
+                "Released": "Oct 12th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "8 GB, GDDR6, 128 bit",
+                "GPU clock": "1320 MHz",
+                "Memory clock": "1875 MHz",
+                "Shaders / TMUs / ROPs": "3584 / 112 / 48"
+              },
+              {
+                "Product Name": "GeForce RTX 3060 Ti GA103",
+                "GPU Chip": "GA103",
+                "Released": "Feb 23rd, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "8 GB, GDDR6, 256 bit",
+                "GPU clock": "1410 MHz",
+                "Memory clock": "1750 MHz",
+                "Shaders / TMUs / ROPs": "4864 / 152 / 80"
+              },
+              {
+                "Product Name": "GeForce RTX 3060 Ti GDDR6X",
+                "GPU Chip": "GA104",
+                "Released": "Oct 19th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "8 GB, GDDR6X, 256 bit",
+                "GPU clock": "1410 MHz",
+                "Memory clock": "1188 MHz",
+                "Shaders / TMUs / ROPs": "4864 / 152 / 80"
+              },
+              {
+                "Product Name": "GeForce RTX 3070 Ti 16 GB",
+                "GPU Chip": "GA104",
+                "Released": "Never Released",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "16 GB, GDDR6X, 256 bit",
+                "GPU clock": "1575 MHz",
+                "Memory clock": "1188 MHz",
+                "Shaders / TMUs / ROPs": "6144 / 192 / 96"
+              },
+              {
+                "Product Name": "GeForce RTX 3070 Ti 8 GB GA102",
+                "GPU Chip": "GA102",
+                "Released": "Oct 21st, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "8 GB, GDDR6X, 256 bit",
+                "GPU clock": "1575 MHz",
+                "Memory clock": "1188 MHz",
+                "Shaders / TMUs / ROPs": "6144 / 192 / 96"
+              },
+              {
+                "Product Name": "GeForce RTX 3070 TiM",
+                "GPU Chip": "GA104",
+                "Released": "Nov 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "8 GB, GDDR6, 256 bit",
+                "GPU clock": "915 MHz",
+                "Memory clock": "1750 MHz",
+                "Shaders / TMUs / ROPs": "5888 / 184 / 96"
+              },
+              {
+                "Product Name": "GeForce RTX 3080 12 GB",
+                "GPU Chip": "GA102",
+                "Released": "Jan 11th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "12 GB, GDDR6X, 384 bit",
+                "GPU clock": "1260 MHz",
+                "Memory clock": "1188 MHz",
+                "Shaders / TMUs / ROPs": "8960 / 280 / 96"
+              },
+              {
+                "Product Name": "GeForce RTX 3080 Ti 20 GB",
+                "GPU Chip": "GA102",
+                "Released": "Jan 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "20 GB, GDDR6X, 320 bit",
+                "GPU clock": "1335 MHz",
+                "Memory clock": "1188 MHz",
+                "Shaders / TMUs / ROPs": "10240 / 320 / 112"
+              },
+              {
+                "Product Name": "GeForce RTX 3090 Ti",
+                "GPU Chip": "GA102",
+                "Released": "Jan 27th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "24 GB, GDDR6X, 384 bit",
+                "GPU clock": "1560 MHz",
+                "Memory clock": "1313 MHz",
+                "Shaders / TMUs / ROPs": "10752 / 336 / 112"
+              },
+              {
+                "Product Name": "GeForce RTX 4080",
+                "GPU Chip": "AD103",
+                "Released": "Sep 20th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "16 GB, GDDR6X, 256 bit",
+                "GPU clock": "2205 MHz",
+                "Memory clock": "1400 MHz",
+                "Shaders / TMUs / ROPs": "9728 / 304 / 112"
+              },
+              {
+                "Product Name": "GeForce RTX 4080 12 GB",
+                "GPU Chip": "AD104",
+                "Released": "Never Released",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "12 GB, GDDR6X, 192 bit",
+                "GPU clock": "2310 MHz",
+                "Memory clock": "1313 MHz",
+                "Shaders / TMUs / ROPs": "7680 / 240 / 80"
+              },
+              {
+                "Product Name": "GeForce RTX 4090",
+                "GPU Chip": "AD102",
+                "Released": "Sep 20th, 2022",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "24 GB, GDDR6X, 384 bit",
+                "GPU clock": "2235 MHz",
+                "Memory clock": "1313 MHz",
+                "Shaders / TMUs / ROPs": "16384 / 512 / 176"
+                },
+                {
+                "Product Name": "GeForce RTX 4070",
+                "GPU Chip": "AD104",
+                "Released": "Apr 12th, 2023",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "12 GB, GDDR6X, 192 bit",
+                "GPU clock": "1920 MHz",
+                "Memory clock": "1313 MHz",
+                "Shaders / TMUs / ROPs": "5888 / 184 / 64"
+                },
+                {
+                "Product Name": "GeForce RTX 4070 Ti",
+                "GPU Chip": "AD104",
+                "Released": "Jan 3rd, 2023",
+                "Bus": "PCIe 4.0 x16",
+                "Memory": "12 GB, GDDR6X, 192 bit",
+                "GPU clock": "2310 MHz",
+                "Memory clock": "1313 MHz",
+                "Shaders / TMUs / ROPs": "7680 / 240 / 80"
+                }  
+		]
+	},
+	"CPU": {
+		"Intel": [
+
+		],
+		"AMD": [
+			
+		]
+	}
+}

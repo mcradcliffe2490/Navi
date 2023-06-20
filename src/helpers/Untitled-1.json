@@ -1,0 +1,36 @@
+{
+	"CPU": {
+		"AMD": [
+			"Ryzen 5 5",
+			"Ryzen 5 7",
+			"Ryzen 7 5",
+			"Ryzen 7 7",
+			"Ryzen 9 5",
+			"Ryzen 9 7"
+		],
+		"Intel": [
+			"Core i3-11",
+			"Core i3-12",
+			"Core i3-13",
+			"Core i5-11",
+			"Core i5-12",
+			"Core i5-13",
+			"Core i7-11",
+			"Core i7-12",
+			"Core i7-13",
+			"Core i9-11",
+			"Core i9-12",
+			"Core i9-13"
+		]
+	},
+    "GPU": {
+        "Nvidia": ["RTX 3", "RTX 4"],
+        "AMD": ["RX 6", "RX 7"]
+    },
+
+    "RAM": {
+        "Corsair": ["Vengeance LPX", "Vengeance RGB", "Vengeance LED", "Vengeance DDR3"], 
+        "G.SKILL": ["Trident Z", "Ripjaws", "Flare"],
+        "Crucial": ["Ballistix", "UDIMM"]
+    }
+}
